@@ -1,6 +1,6 @@
-#Crack Top Android Development Company Interview
+# Crack Top Android Development Company Interview
 
-https://docs.google.com/document/d/1H0jRY8oKAFpE8sT_hHjiUmvEZYJFx8IXqzoNB2su-ao/edit?usp=sharing
+[link to Google!](https://docs.google.com/document/d/1H0jRY8oKAFpE8sT_hHjiUmvEZYJFx8IXqzoNB2su-ao/edit?usp=sharing)
 Budhdi Sharma
 May 8 · 15 min read
 
@@ -12,9 +12,9 @@ Mainly divided into the following parts:
 (3) Advanced development technology interview questions
 (4) Cross-platform Hybrid development
 
-Java interview questions
+## Java interview questions
 Mastering java is very important. Large companies not only require you to use a few APIs, but also require you to be familiar with the principles of source code implementation, and even require you to know what are the deficiencies, how to improve, and some Java-related algorithms, Design patterns, etc.
-Java basic interview knowledge points
+### Java basic interview knowledge points
 The difference between == and equals and hashCode in java
 How many bytes each int, char, and long occupy
 The difference between int and integer
@@ -38,7 +38,7 @@ Understanding of member internal class, static internal class, local internal cl
 Talk about understanding kotlin
 The difference between closures and local inner classes
 The method and principle of converting the string to integer
-Java in-depth source-level interview questions (difficult)
+## Java in-depth source-level interview questions (difficult)
 Under what circumstances will the object be disposed of by the garbage collection mechanism?
 Tell me about common coding methods?
 How many bytes does English in UTF-8 encoding take; how many bytes is int?
@@ -56,7 +56,7 @@ Understanding of String in Java
 Why should String be designed to be immutable?
 Object equal and hashCode method rewrite, why?
 
-Data structure
+## Data structure
 Introduction to common data structures
 What does concurrent collection know?
 List Java collections and the inheritance relationship between collections
@@ -91,7 +91,7 @@ To judge whether a singly linked list is looped?
 Linked list flip (ie: flip a single necklace watch)
 Merging multiple single-ordered linked lists (assuming all are increasing)
 
-Threads, multithreading and thread pool
+## Threads, multithreading and thread pool
 Three ways to start threads?
 The difference between threads and processes?
 Why are there threads, not just processes?
@@ -134,12 +134,12 @@ Talk about your understanding of the multi-thread synchronization mechanism?
 How to ensure the security of multi-threaded read and write files?
 Multithread breakpoint resume transmission principle
 Realization of resuming of breakpoint
-Knowledge points about concurrent programming
+### Knowledge points about concurrent programming
 Usually, less concurrent programming can be done in Android development. The Thread class is often used, but if we want to improve ourselves, we must not stay on the surface. We should also learn about java’s thread-related source code thing.
 
-Android interview questions
+## Android interview questions
 Android interview questions include Android basics, as well as some source-level, principle, etc. So if you want to go to an interview with a large company, you must look at the source code and implementation methods. Common frameworks can try whether you can implement it by hand and exercise yourself.
-Android basics
+### Android basics
 What are the four components?
 The life cycle and simple usage of the four major components
 Communication between activities
@@ -182,7 +182,7 @@ The role of serialization, and the difference between the two serialization of A
 Difference
 Estimator
 How to store data in Android
-Android source code related analysis
+### Android source code related analysis
 Android animation framework implementation principle
 Differences between APIs of Android versions
 Requestlayout, onlayout, onDraw, DrawChild difference and connection
@@ -213,7 +213,7 @@ Process and Application Life Cycle
 How to know the size of the view when packaging the view
 RecycleView principle
 The role and understanding of AndroidManifest
-Some common principle problems
+## Some common principle problems
 Handler mechanism and underlying implementation
 The difference between Handler, Thread and HandlerThread
 How does the looper start when the handler sends a message to the child thread?
@@ -256,7 +256,7 @@ Is there an upper limit for the thread pool?
 What does ListView reuse?
 Why did Android introduce Parcelable?
 Have you tried to simplify the use of Parcelable
-Some common problems in the development
+### Some common problems in the development
 How does the problem of image misalignment in ListView arise?
 Do you understand hybrid development?
 Know which hybrid development methods? Name their advantages and disadvantages and their respective usage scenarios? (Answer: For example RN, weex, H5, applet, WPA, etc. It is still beneficial to do some understanding of Android-front-end js, etc.);
@@ -280,9 +280,9 @@ Implementation of WeChat main page
 The principle of the little red dot on the WeChat message
 Introduction to CAS
 
-Advanced development technology interview questions
+# Advanced development technology interview questions
 Here are some high-end Android technologies that large companies need to use. Here I have compiled a document specifically; I hope everyone can look. These topics are a bit technical and need some time to study.
-Picture
+### Picture
 Picture library comparison
 Source analysis of image library
 Picture frame cache implementation
@@ -292,7 +292,7 @@ How to do it by yourself to realize the picture library?
 Glide source code analysis
 What cache does Glide use?
 How to control the size of Glide memory cache?
-Network and security mechanisms
+### Network and security mechanisms
 Network framework comparison and source code analysis
 How to do it yourself to design a network request framework?
 okhttp source code
@@ -315,12 +315,12 @@ Please explain why Android needs to add a signature mechanism?
 Video encryption transmission
 How are apps sandboxed, and why do they do it?
 Permission management system (how is the bottom permission granted)?
-Database
+### Database
 sqlite upgrade, add field statement
 Database framework comparison and source code analysis
 Database optimization
 Database data migration issues
-Algorithm
+### Algorithm
 What are the sorting algorithms?
 What is the fastest sorting algorithm?
 Handwriting a bubble sort
@@ -348,14 +348,14 @@ How to divide 5 coins, 2 positives and 3 negatives into two piles, and then turn
 The hour hand goes one turn, the hour hand and minute hand overlap several times
 N * N graph paper, how many squares are inside
 X apples can only eat one, two, or three a day. How many days can I finish?
-Plug-in, modularization, componentization, hot repair, incremental update, Gradle
+### Plug-in, modularization, componentization, hot repair, incremental update, Gradle
 Understanding of hot repair and plug-in
 Analysis of plug-in principle
 Modular implementation (benefits, reasons)
 Hot fix, plug-in
 Project component understanding
 Describe what happened after clicking the build button of Android Studio
-Architecture design and design mode
+### Architecture design and design mode
 Talk about your understanding of the Android design pattern
 MVC MVP MVVM principle and difference
 What design patterns do you know?
@@ -377,7 +377,7 @@ How does this update work for apps? (Answer: Grayscale, mandatory update, update
 Implement a Json parser (can increase speed through regularization)
 Statistics start time, standard
 
-Performance optimization
+## Performance optimization
 How to perform performance analysis and optimization of Android applications?
 ddms and traceView
 How to analyze systrace for performance optimization?
@@ -399,7 +399,7 @@ How does Bitmap handle big pictures, such as a 30M big picture, how to prevent O
 The difference between the four kinds of references in java and usage scenarios
 Will the strong reference be set to null, will it be recycled?
 
-NDK, jni, Binder, AIDL, process communication
+## NDK, jni, Binder, AIDL, process communication
 Please introduce NDK
 What is the NDK library?
 Have you used jni?
@@ -421,7 +421,7 @@ Talk about the understanding of process sharing and thread safety
 Talk about the understanding of multi-process development and multi-process application scenarios
 What is a coroutine?
 
-Framework layer, ROM customization, Ubuntu, Linux, and other issues
+## Framework layer, ROM customization, Ubuntu, Linux, and other issues
 Characteristics of java virtual machine
 Talk about the understanding of jvm
 JVM memory area, which memory is affected by threading
@@ -448,7 +448,7 @@ Process keep alive
 How to ensure that a background service is not killed? (Same question: How to ensure that the service is not killed in the background?) What is the more power-saving way?
 How to wake up other processes in the app
 
-Cross-platform Hybrid development
+## Cross-platform Hybrid development
 flutter
 Html5 project combat
 HTML & CSS & JavaScript combat
@@ -470,7 +470,7 @@ The technical points that I am most good at, the technical fields and technical 
 What open source libraries are used in the project and how to avoid the security and stability problems caused by the introduction of open-source libraries
 What did you do during the internship and what was your output?
 
-Summary
+## Summary
 Because the workload of sorting answers to many questions is too large, it is limited to providing knowledge points. If you are looking for a job, it is recommended to go through them one by one. If you do n’t understand, you can ask questions.
 I will write some more article/blog on Coding Interview Tips to get to know more about it, please follow or Clapp for the article.
 I hope you enjoyed this session. If you have any comments or questions, please join the forum discussion below!
