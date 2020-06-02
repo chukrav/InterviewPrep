@@ -7,37 +7,37 @@ May 8 · 15 min read
 
 The interviewer in interviews asked these questions with top-tier Internet companies. Familiarity with the knowledge points listed in this article will greatly increase the chance of passing the first two rounds of technical interviews.
 Mainly divided into the following parts:
-(1) Java interview questions
-(2) Android interview questions
-(3) Advanced development technology interview questions
-(4) Cross-platform Hybrid development
+* (1) Java interview questions
+* (2) Android interview questions
+* (3) Advanced development technology interview questions
+* (4) Cross-platform Hybrid development
 
 ## Java interview questions
 Mastering java is very important. Large companies not only require you to use a few APIs, but also require you to be familiar with the principles of source code implementation, and even require you to know what are the deficiencies, how to improve, and some Java-related algorithms, Design patterns, etc.
 ### Java basic interview knowledge points
-The difference between == and equals and hashCode in java
-How many bytes each int, char, and long occupy
-The difference between int and integer
-Explore the understanding of java polymorphism
-Difference between String, StringBuffer, StringBuilder
-What is the internal class? The role of inner classes
-The difference between abstract classes and interfaces
-The meaning of abstract class
-Application scenarios of abstract classes and interfaces
-Can abstract classes have no methods and properties?
-The meaning of the interface
-The difference between extends and super in generics
-Can the child class override the static method of the parent class?
-The difference between process and thread
-The difference between final, finally, and finalize
-Serialization
-The difference between Serializable and Parcelable
-Can static properties and static methods be inherited? Can it be rewritten? And why?
-Design Intent of Static Inner Class
-Understanding of member internal class, static internal class, local internal class, and anonymous internal class, and application in the project
-Talk about understanding kotlin
-The difference between closures and local inner classes
-The method and principle of converting the string to integer
+- The difference between == and equals and hashCode in java
+- How many bytes each int, char, and long occupy
+- The difference between int and integer
+- Explore the understanding of java polymorphism
+- Difference between String, StringBuffer, StringBuilder
+- What is the internal class? The role of inner classes
+- The difference between abstract classes and interfaces
+- The meaning of abstract class
+- Application scenarios of abstract classes and interfaces
+- Can abstract classes have no methods and properties?
+- The meaning of the interface
+- The difference between extends and super in generics
+- Can the child class override the static method of the parent class?
+- The difference between process and thread
+- The difference between final, finally, and finalize
+- Serialization
+- The difference between Serializable and Parcelable
+- Can static properties and static methods be inherited? Can it be rewritten? And why?
+- Design Intent of Static Inner Class
+- Understanding of member internal class, static internal class, local internal class, and anonymous internal class, and application in the project
+- Talk about understanding kotlin
+- The difference between closures and local inner classes
+- The method and principle of converting the string to integer
 ## Java in-depth source-level interview questions (difficult)
 Under what circumstances will the object be disposed of by the garbage collection mechanism?
 Tell me about common coding methods?
