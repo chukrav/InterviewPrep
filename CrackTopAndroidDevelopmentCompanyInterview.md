@@ -477,6 +477,6 @@ I hope you enjoyed this session. If you have any comments or questions, please j
 Thanks for the support :)  
 [Android Developers](https://medium.com/u/e1f26db83092?source=post_page-----f106756f045e----------------------)
 [Interviewstreet](https://medium.com/u/495e4a6d13a5?source=post_page-----f106756f045e----------------------)
-[Crack Code Interview](https://medium.com/u/cadf9a318872?source=post_page-----f106756f045e----------------------)
-$A \cup B$
+[Crack Code Interview](https://medium.com/u/cadf9a318872?source=post_page-----f106756f045e----------------------)   
+$A \cup B$   
 $A \cap B$
