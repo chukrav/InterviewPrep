@@ -479,4 +479,6 @@ Thanks for the support :)
 [Interviewstreet](https://medium.com/u/495e4a6d13a5?source=post_page-----f106756f045e----------------------)
 [Crack Code Interview](https://medium.com/u/cadf9a318872?source=post_page-----f106756f045e----------------------)   
 ∈   
-conjunction & disjunction `∧` `∨`   
+conjunction & disjunction `∧` `∨`  
+
+$$c = \sqrt{a^2 + b^2}$$
