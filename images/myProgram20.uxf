@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>11</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>605</x>
+      <y>99</y>
+      <w>264</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>_data Science_
+--
+*It Is All About Data*
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>462</x>
+      <y>264</y>
+      <w>264</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>_Computer Vision_
+--
+*UC: 4 month*
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>770</x>
+      <y>264</y>
+      <w>363</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>_Applied Data Science with Python Specialization_
+--
+*C: 5 month*
+*5 Courses*
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>462</x>
+      <y>385</y>
+      <w>264</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>_Statistics_
+--
+*UC: ?? month*
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>462</x>
+      <y>473</y>
+      <w>264</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>_Lin Algebra_
+--
+*UC: ?? month*
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>462</x>
+      <y>561</y>
+      <w>264</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>_PyTorch_
+--
+*UC: ?? month*
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>462</x>
+      <y>649</y>
+      <w>264</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>_TensorFloor_
+--
+*UC: ?? month*
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>462</x>
+      <y>737</y>
+      <w>264</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>_Intro Computer Sciense_
+--
+*UC: ?? month*
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>770</x>
+      <y>385</y>
+      <w>363</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>_Deep Learning Specialization_
+--
+*C: 4 month*
+*5 Courses*
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
