@@ -1,0 +1,11 @@
+makeDictSorted.py
+     makes sorted text from raw text file (dictionary)
+   python makeDictSorted.py  <- to run ----------------!
+     Defoult input filename 'file.txt' the input & output file simultaneously!!!
+     You can add new lines during your work on current dictionary.
+     or add input filename: 
+   python makeDictSorted.py input.txt  <- to run ----------------!
+   
+writeDictHTML.py
+   python writeDictHTML.py  <- to run ----------------!
+   read "HEADER.txt" or file of your choice, where you can make your declarations for new dictionary.
