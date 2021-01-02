@@ -76,7 +76,7 @@ bg=yellow</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>640</x>
-      <y>200</y>
+      <y>192</y>
       <w>192</w>
       <h>48</h>
     </coordinates>
@@ -213,7 +213,7 @@ bg=green</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>1104</x>
+      <x>1096</x>
       <y>488</y>
       <w>96</w>
       <h>32</h>
@@ -226,22 +226,22 @@ bg=green</panel_attributes>
     <coordinates>
       <x>992</x>
       <y>512</y>
-      <w>176</w>
+      <w>168</w>
       <h>120</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;130.0;200.0;10.0</additional_attributes>
+    <additional_attributes>10.0;130.0;190.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>1072</x>
       <y>352</y>
-      <w>80</w>
+      <w>72</w>
       <h>152</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;80.0;170.0</additional_attributes>
+    <additional_attributes>10.0;10.0;70.0;170.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
@@ -523,8 +523,10 @@ bg=green</panel_attributes>
       <h>88</h>
     </coordinates>
     <panel_attributes>Up 30 Sep. 20
+Up 30 Jan 21
 halign=left
 bg=light_gray
+fg=red
 layer=-1</panel_attributes>
     <additional_attributes/>
   </element>
@@ -554,6 +556,20 @@ layer=-1</panel_attributes>
 halign=left
 bg=light_gray
 layer=-1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1464</x>
+      <y>200</y>
+      <w>192</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>_?????_
+--
+*Javascript*
+bg=orange</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
