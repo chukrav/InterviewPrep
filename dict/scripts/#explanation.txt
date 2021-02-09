@@ -9,3 +9,5 @@ makeDictSorted.py
 writeDictHTML.py
    python writeDictHTML.py  <- to run ----------------!
    read "HEADER.txt" or file of your choice, where you can make your declarations for new dictionary.
+   
+   
