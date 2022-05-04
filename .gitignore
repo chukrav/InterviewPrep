@@ -5,5 +5,5 @@
 *.ods
 *.xls
 *.xlsx
-*.uxf
+#*.uxf
 *.zip
