@@ -4,23 +4,24 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>56</x>
+      <x>14</x>
       <y>84</y>
-      <w>294</w>
+      <w>182</w>
       <h>98</h>
     </coordinates>
     <panel_attributes>Indef
 --
 * to ask *
-has, do?</panel_attributes>
+has, do?
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>42</x>
+      <x>0</x>
       <y>0</y>
-      <w>1288</w>
+      <w>812</w>
       <h>392</h>
     </coordinates>
     <panel_attributes>halign=center
@@ -38,104 +39,112 @@ Passive Voice
 fontsize=18
 bg=light_gray
 
-</panel_attributes>
+
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>378</x>
+      <x>196</x>
       <y>84</y>
-      <w>294</w>
+      <w>196</w>
       <h>98</h>
     </coordinates>
     <panel_attributes>Contin
 --
-* to be asking *</panel_attributes>
+* to be asking *
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>700</x>
+      <x>392</x>
       <y>84</y>
-      <w>294</w>
+      <w>196</w>
       <h>98</h>
     </coordinates>
     <panel_attributes>Perf
 --
-* to have asked *</panel_attributes>
+* to have asked *
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1022</x>
+      <x>588</x>
       <y>84</y>
-      <w>294</w>
+      <w>210</w>
       <h>98</h>
     </coordinates>
     <panel_attributes>Perf. Contin
 --
-* to have been asking *</panel_attributes>
+* to have been asking *
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>56</x>
+      <x>14</x>
       <y>238</y>
-      <w>294</w>
+      <w>182</w>
       <h>98</h>
     </coordinates>
     <panel_attributes>Indef
 --
-* to be asked *</panel_attributes>
+* to be asked *
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>378</x>
+      <x>196</x>
       <y>238</y>
-      <w>294</w>
+      <w>196</w>
       <h>98</h>
     </coordinates>
     <panel_attributes>Contin
 --
-* to be being asked *</panel_attributes>
+* to be being asked *
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>700</x>
+      <x>392</x>
       <y>238</y>
-      <w>294</w>
+      <w>196</w>
       <h>98</h>
     </coordinates>
     <panel_attributes>Perf
 --
-* to have been asked *</panel_attributes>
+* to have been asked *
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1022</x>
+      <x>588</x>
       <y>238</y>
-      <w>294</w>
+      <w>210</w>
       <h>98</h>
     </coordinates>
     <panel_attributes>Perf. Contin
 --
-                  ---------------</panel_attributes>
+                  ---------------
+group=group-2</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>42</x>
+      <x>0</x>
       <y>434</y>
       <w>574</w>
       <h>378</h>
@@ -155,7 +164,7 @@ group=group-1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>56</x>
+      <x>14</x>
       <y>518</y>
       <w>336</w>
       <h>168</h>
@@ -173,7 +182,7 @@ group=group-1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>406</x>
+      <x>364</x>
       <y>518</y>
       <w>196</w>
       <h>168</h>
@@ -187,7 +196,7 @@ group=group-1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>56</x>
+      <x>14</x>
       <y>700</y>
       <w>546</w>
       <h>98</h>
@@ -202,7 +211,7 @@ group=group-1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>630</x>
+      <x>588</x>
       <y>434</y>
       <w>658</w>
       <h>196</h>
@@ -221,7 +230,7 @@ group=group-0</panel_attributes>
   <element>
     <id>UMLPackage</id>
     <coordinates>
-      <x>630</x>
+      <x>588</x>
       <y>476</y>
       <w>238</w>
       <h>126</h>
@@ -240,7 +249,7 @@ group=group-0</panel_attributes>
   <element>
     <id>UMLPackage</id>
     <coordinates>
-      <x>868</x>
+      <x>826</x>
       <y>476</y>
       <w>210</w>
       <h>126</h>
@@ -259,7 +268,7 @@ group=group-0</panel_attributes>
   <element>
     <id>UMLPackage</id>
     <coordinates>
-      <x>1078</x>
+      <x>1036</x>
       <y>476</y>
       <w>210</w>
       <h>126</h>
@@ -269,6 +278,452 @@ group=group-0</panel_attributes>
 ..self   -   ...selves
 bg=light_gray
 group=group-0</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>14</x>
+      <y>910</y>
+      <w>266</w>
+      <h>238</h>
+    </coordinates>
+    <panel_attributes>Nouns
+--
+имен
+род
+дат
+вин
+творит
+предл
+
+род
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>280</x>
+      <y>910</y>
+      <w>322</w>
+      <h>238</h>
+    </coordinates>
+    <panel_attributes>sentences
+--
+мальчик читает книгу
+книга мальчика открыта
+она показала мальчику ее ручку
+мы видели мальчика
+письмо написано мальчиком
+они говорят о мальчике
+
+книга мальчика открыта ('s)
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>826</y>
+      <w>672</w>
+      <h>518</h>
+    </coordinates>
+    <panel_attributes>halign=center
+_T4_
+--
+Падежи существительных и местоимений 
+--
+fontsize=18
+bg=light_gray
+
+
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>126</x>
+      <y>980</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ - common/
+
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>126</x>
+      <y>1092</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ - posessive/
+
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>70</x>
+      <y>938</y>
+      <w>84</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>
+group=group-4</panel_attributes>
+    <additional_attributes>10.0;10.0;40.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>70</x>
+      <y>994</y>
+      <w>84</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>
+group=group-4</panel_attributes>
+    <additional_attributes>10.0;50.0;40.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>14</x>
+      <y>1148</y>
+      <w>266</w>
+      <h>182</h>
+    </coordinates>
+    <panel_attributes>Pronouns
+--
+имен
+
+дат
+вин
+творит
+предл
+
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>126</x>
+      <y>1190</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ - Nominative/
+
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>126</x>
+      <y>1246</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ - Objective/
+
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>56</x>
+      <y>1176</y>
+      <w>98</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>
+group=group-4</panel_attributes>
+    <additional_attributes>10.0;20.0;50.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>56</x>
+      <y>1218</y>
+      <w>98</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>
+group=group-4</panel_attributes>
+    <additional_attributes>10.0;20.0;50.0;30.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>280</x>
+      <y>1148</y>
+      <w>322</w>
+      <h>182</h>
+    </coordinates>
+    <panel_attributes>sentences
+--
+он читает книгу
+
+она показала мальчику ее ручку
+мы видели его
+письмо написано им
+они говорят о нем
+group=group-4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>798</x>
+      <y>840</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ подлеж/
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>980</x>
+      <y>840</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ сказ/
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1162</x>
+      <y>840</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ дополн/
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>980</x>
+      <y>742</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ опред/
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>700</x>
+      <y>658</y>
+      <w>672</w>
+      <h>350</h>
+    </coordinates>
+    <panel_attributes>halign=center
+_T5_
+--
+Структура предложения 
+--
+fontsize=18
+bg=light_gray
+
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>980</x>
+      <y>952</y>
+      <w>140</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>/ обстоят/
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>728</x>
+      <y>854</y>
+      <w>280</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+group=group-6</panel_attributes>
+    <additional_attributes>10.0;10.0;180.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1106</x>
+      <y>854</y>
+      <w>266</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+group=group-6</panel_attributes>
+    <additional_attributes>170.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>952</x>
+      <y>854</y>
+      <w>56</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+group=group-6</panel_attributes>
+    <additional_attributes>10.0;10.0;20.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1106</x>
+      <y>854</y>
+      <w>56</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+group=group-6</panel_attributes>
+    <additional_attributes>20.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1106</x>
+      <y>742</y>
+      <w>266</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+fg=red
+group=group-6</panel_attributes>
+    <additional_attributes>170.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>952</x>
+      <y>742</y>
+      <w>56</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+fg=red
+group=group-6</panel_attributes>
+    <additional_attributes>10.0;80.0;20.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1106</x>
+      <y>742</y>
+      <w>56</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+fg=red
+group=group-6</panel_attributes>
+    <additional_attributes>20.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>728</x>
+      <y>742</y>
+      <w>280</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+fg=red
+group=group-6</panel_attributes>
+    <additional_attributes>10.0;70.0;180.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>714</x>
+      <y>826</y>
+      <w>70</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=.
+
+fg=red
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>924</x>
+      <y>826</y>
+      <w>70</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=.
+
+fg=red
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>1092</x>
+      <y>826</y>
+      <w>70</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=.
+
+fg=red
+
+group=group-6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>1302</x>
+      <y>826</y>
+      <w>70</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=.
+
+fg=red
+
+group=group-6</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
