@@ -1,0 +1,201 @@
+T2. Passive voice.
+I read the book.               The boor is read by me.
+He gave me a book.             I was given a book.
+We speak much about it.        It is much spoken about.
+X is affected by Y. X is followed by Y.
+
+T4. Падежи.
+The boy read (He) a book.
+The book of the boy was open.
+She sowed (him) the boy her pen.
+She sowed her pen to (him) the boy.
+We have seen (him) the boy.
+The letter is written by (him) the boy.
+They speak about (him) the boy.
+The boy's book was open.
+
+T6. Типы вопросительных предл.
+Do you work? Yes I do.
+Is she reading? Yes she is.
+Where do you work?
+What is she reading?
+Who knows this story? He (does).
+You work much, don't you?
+She can't sing, can she?
+Have you flat or room?
+Does ho know English or French?
+
+T8. Прямая в косвенную.
+He said to me, "I should do it tomorrow".      He told me (that)  he would do it the next day.
+She asked me, "Have you written the paper?".   She asked me if (weather) I had written the paper.
+He asked me, "Where do you leave?".            He asked me where I leaved.
+She said to him, "Come at 3 o'clock".          She asked him to come at 3 o'clock.
+He said to me, "Don't go there".               He told me not to go there.
+
+T9. Типы придаточных предложений.
+Who can do it is not known.
+The question is if (weather) he will come.
+He said (that) he had done it.
+Here is the book (which, that) we have spoken about.
+She will do it when she returns.
+The plant grows where the others couldn't.
+As it was raining, we stayed at home.
+She must hurry lest she (should) be late.
+I shall do this work if I have time.
+Thought (he was) very young, he was a good worker.
+
+T10. Who(m), which, that.
+The man who (that) is seating there is my friend.
+The man (whom, that) you see there is my friend.
+The book (which, that) you need is on the shelf.
+Here is the man, about whom we have spoken.
+Here is the man, whom (that) we have spoken about.
+Here is the man, we have spoken about.
+This is the house, in which I leave.
+This is the house, which (that) I leave in.
+This is the house, I leave in.
+
+T11. Обороты эквивалентные обстоятельственным придаточным предложениям.
+While (he was) reading he made notes.
+Ice melt if (it is) heated.
+Thought (he was) very young, he was a good worker.
+The pendulum shows the direction of gravitation when (it is) at rest.
+
+T12. Модальные глаголы
+She can do it.
+She can have done it.
+Can she do (have done) it.
+She can't do (have done) it.
+She will be able to do it.
+May I come in?
+You may take the book.
+She may do (have done) it.
+He was permitted to go there.
+She must do (have done) it.
+She has to do it.
+She is to do it.
+
+T13. Сослагательное наклонение
+I should do this work. (today, tomorrow)    ... if I had time.
+I should have done this work. (yesterday)   ... if I had had time.
+(it is necessary, possible) It is necessary that he (should) do this work.
+(to order, demand, suggest) The chief demanded that we (should) do this work in time.
+(so that, lest) She must hurry lest she (should) be late.
+I wish I were stronger.
+Had I time I should do this work.
+
+T14. Условные предложения.
+I do this work if I have time.                    Pres.           Изъявительное
+I shell do this work if I have time.              Futur.          Изъявительное
+I did this work if I had time.                    Past.           Изъявительное
+I should do this work if I had time.              Pres., Futur.   Сослагательное
+I should have done this work if I had had time.   Past.           Сослагательное
+
+T15. Should, would.
+I said I should do it. (have done - Сослаг.)
+I (he) should do it.
+I (he) should have done.
+He said he would do it. (have done - Сослаг.)
+I (he) would do it.
+Paper would burning.
+Last year we would go to the theatre.
+
+T17. Причастие.
+		      asking | being asked      
+		having asked | having been asked
+1. He is writing a paper.
+2. The playing boy is my sun.
+3. The boy playing in the garden is my sun.
+4. The results obtained were promising.
+5. While reading he made notes.
+6. Having finished his experiments he compared the results.
+-- Объектный с причастием --
+	  глагол + сущ(общ),мест(объект)+(as)Part
+7. We see the boys (them) playing football.
+8. They thought the problem (it) solved.
+9. He regards this method (it) as affording good results.
+-- Именительный с причастием --
+	  сущ(общ),мест(имен) + глагол(страд) + (as)Part
+10. The boys are seen  playing football.
+11. The problem (it) was thought solved.
+12. The method (it) is regarded  as affording good results.
+-- Независимый причастный --
+	  (with) сущ(общ),мест(имен) + (as)Part
+13. The weather being fine, we went for a walk.
+14. The work done, they went home.
+15. We completed our experiments with the data being published.
+
+T18. Герундий.
+		      asking | being asked      
+		having asked | having been asked
+1. Walking is useful.
+2. Our aim is mastering English.
+3. She likes singing.
+4. Its boiling point is very low.
+5. His working place is always in order. (place of work)
+6. There are many ways of solving this problem.
+7. He left the room without saying good-bye. 
+8. She went there for studying physics.
+-- Герундиальные обороты -- 
+       предл. + (притяж) сущ, мест + Gerund
+       предл. + (общ) сущ + Gerund
+9. He insisted on the students' (their) doing it.
+10. My friend's taking part in this work helped me greatly.
+11. They objected to the books being sent immediately.
+
+T19. Инфинитив.
+	              to ask  | to be asked
+	        to be asking  |   ---
+	       to have asked  | to have been asked
+	  to have been asking |   ---
+1. To walk is useful.
+2. Our aim is to master English.
+3. She likes to sing.
+4. The desire to find the solution was very strong.
+5. It will be done in the years to come.
+6. He was the first to prove it.
+7. The method to be used is not new.
+8. She went there to study physics.
+9. Hydrogen reacts with oxygen to form water.
+-- Объектный с инфинитивом -- to see, to hear w/o to 
+	  глагол + сущ(общ),мест(объект)+Inf
+10. He considered the problem (it) to be complicated.
+11. We see the boys (them) play football.
+12. The pressure causes the ice to melt.
+13. It enabled the particles to be observed.
+-- Именительный с инфинитивом -- 
+	  сущ(общ),мест(имен) + глагол(страд,действ,to be прилаг) + Inf
+14. The problem (it) is considered to be complicated.
+15. The boys (they) are seen to play football.
+16. The data proved to be wrong.
+17. This is likely to be the case.
+----- for сущ Inf -----
+	    for + сущ(общ),мест(объект) + Inf
+18. He spoke loudly for them (the people) to hear him.
+19. It is necessary for us to do this work in time.
+
+T20. Заместители существительных и глаголов.
+The result of the experiment is much better then that of the previous one.
+The results of the experiments are much better then those of the previous ones.
+Do (did) you work? Yes I (did) do.
+He works (worked) as well as his friend does (did).
+
+T21 Эмфатические конструкции.
+It is the data that (which) are reliable.
+It was I who (that) met him in the street yesterday.
+It was he whom (that) I met him in the street yesterday.
+It was in the street that I met him  yesterday.
+It was yesterday that I met him in the street.
+It wos not untill the 1950's that the theory was developed.
+He does (did) speak English fluently.
+
+T22 Некоторые трудности.
+The more we study the more we know.
+The quicker the better.
+He is to do this work.                должен
+His work is to make experiments.      состоять, заключаться в том
+He failed to do it.
+
+
+
+
