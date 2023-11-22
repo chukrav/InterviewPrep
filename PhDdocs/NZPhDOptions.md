@@ -13,7 +13,11 @@ Contact [Dianne Brunton](https://www.massey.ac.nz/massey/expertise/profile.cfm?s
 PhD graduate [Dr Wesley Webb's thesis](https://www.massey.ac.nz/about/news/five-years-of-birdsong-research-takes-flight/)  / [Youtube](https://youtu.be/oZ4JEMfXS0k?t=39)    
 on female birdsong, which he received in April, is the result of combining two of his passions: birds and music.
 
-
+#### Waikato account:   
+kra.lesha   
+Username ak1264   
+psw: NahalArugot32St   
+This username, together with the password you provided, enables you to login to your Waikato account.
 
  
 
