@@ -19,5 +19,34 @@ Username ak1264
 psw: NahalArugot32St   
 This username, together with the password you provided, enables you to login to your Waikato account.
 
+## All prices in NZD !
+Izelle Schoombee 		Изель Шумби
+
+1. police certificates;  (0.5 year, 1 month to process cert. of Israel)   
+1. child’s full birth certificate;    
+1. type, location and value of the funds: bank statements, property valuations, asset valuations;   
+1. source of investment funds (tlushes, flat docs, bituah leumi);    
+1. annual income: evidence pension, current salary;  
+
+### Words:   
+Israeli income certificate:			справка о доходах израиле   
+national insurance (department):     национальное страхование    
+townhouse:     Townhouse owners, alternatively, may share a wall with their neighbors, but they also own the structure of the home itself and the property's surrounding land.   
+mortgage:		ипотека   
+collapsed (USSA):		рухнул    
+privatization:		приватизация   
+privatization certificate:		сертификат приватизации   
+affect:		затронуть   
+property appraiser (property valuer): 	оценщик собственности the unbiased source of truth when it comes to determining how much a property and its assets are actually worth.    
+Education fund (Continuing education fund):				קרן השתלמות    
+commercial:			промышленный   
+state:		государство   
+resignation:		отставка    
+rely:		полагаться   
+expect:		ожидать   
+get: 		получать   
+company:		фирма  
+keep it discreet:		держи это в тайне
+
  
 
